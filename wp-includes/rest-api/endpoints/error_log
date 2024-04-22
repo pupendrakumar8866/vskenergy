@@ -1,0 +1,1332 @@
+[23-Feb-2024 08:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[23-Feb-2024 08:42:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[23-Feb-2024 08:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[23-Feb-2024 08:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[23-Feb-2024 08:42:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[23-Feb-2024 08:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[23-Feb-2024 08:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[23-Feb-2024 08:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[23-Feb-2024 08:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[23-Feb-2024 08:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[23-Feb-2024 08:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[23-Feb-2024 08:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[23-Feb-2024 08:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[23-Feb-2024 08:42:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[23-Feb-2024 08:42:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[23-Feb-2024 08:42:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[23-Feb-2024 08:42:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[23-Feb-2024 08:42:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[23-Feb-2024 08:43:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[23-Feb-2024 08:43:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[23-Feb-2024 08:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[23-Feb-2024 08:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[23-Feb-2024 08:43:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[23-Feb-2024 08:43:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[23-Feb-2024 08:43:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[23-Feb-2024 08:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[23-Feb-2024 08:43:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[23-Feb-2024 08:43:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[23-Feb-2024 08:43:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[23-Feb-2024 08:43:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[23-Feb-2024 08:43:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[23-Feb-2024 08:43:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[23-Feb-2024 08:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[23-Feb-2024 08:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[23-Feb-2024 08:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[23-Feb-2024 08:43:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[23-Feb-2024 08:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[26-Feb-2024 15:17:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[26-Feb-2024 15:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[26-Feb-2024 15:17:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[26-Feb-2024 15:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[26-Feb-2024 15:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[26-Feb-2024 15:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[26-Feb-2024 15:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[26-Feb-2024 15:17:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[26-Feb-2024 15:17:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[26-Feb-2024 15:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[26-Feb-2024 15:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[26-Feb-2024 15:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[26-Feb-2024 15:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[26-Feb-2024 15:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[26-Feb-2024 15:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[26-Feb-2024 15:17:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[26-Feb-2024 15:17:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[26-Feb-2024 15:17:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[26-Feb-2024 15:17:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[26-Feb-2024 15:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[26-Feb-2024 15:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[26-Feb-2024 15:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[26-Feb-2024 15:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[26-Feb-2024 15:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[26-Feb-2024 15:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[26-Feb-2024 15:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[26-Feb-2024 15:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[26-Feb-2024 15:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[26-Feb-2024 15:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[26-Feb-2024 15:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[26-Feb-2024 15:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[26-Feb-2024 15:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[26-Feb-2024 15:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[26-Feb-2024 15:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[26-Feb-2024 15:18:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[26-Feb-2024 15:18:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[26-Feb-2024 15:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[02-Mar-2024 04:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[02-Mar-2024 04:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[02-Mar-2024 04:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[02-Mar-2024 04:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[02-Mar-2024 04:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[02-Mar-2024 04:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[02-Mar-2024 04:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[02-Mar-2024 04:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[02-Mar-2024 04:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[02-Mar-2024 04:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[02-Mar-2024 04:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[02-Mar-2024 04:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[02-Mar-2024 04:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[02-Mar-2024 04:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[02-Mar-2024 04:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[02-Mar-2024 04:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[02-Mar-2024 04:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[02-Mar-2024 04:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[02-Mar-2024 04:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[02-Mar-2024 04:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[02-Mar-2024 04:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[02-Mar-2024 04:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[02-Mar-2024 04:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[02-Mar-2024 04:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[02-Mar-2024 04:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[02-Mar-2024 04:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[02-Mar-2024 04:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[02-Mar-2024 04:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[02-Mar-2024 04:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[02-Mar-2024 04:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[02-Mar-2024 04:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[02-Mar-2024 04:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[02-Mar-2024 04:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[02-Mar-2024 04:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[02-Mar-2024 04:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[02-Mar-2024 04:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[02-Mar-2024 04:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[27-Mar-2024 03:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[27-Mar-2024 03:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[27-Mar-2024 03:16:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[27-Mar-2024 03:16:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[27-Mar-2024 03:16:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[27-Mar-2024 03:16:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[27-Mar-2024 03:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[27-Mar-2024 03:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[27-Mar-2024 03:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[27-Mar-2024 03:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[27-Mar-2024 03:16:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[27-Mar-2024 03:17:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[27-Mar-2024 03:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[27-Mar-2024 03:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[27-Mar-2024 03:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[27-Mar-2024 03:17:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[27-Mar-2024 03:17:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[27-Mar-2024 03:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[27-Mar-2024 03:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[27-Mar-2024 03:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[27-Mar-2024 03:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[27-Mar-2024 03:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[27-Mar-2024 03:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[27-Mar-2024 03:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[27-Mar-2024 03:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[27-Mar-2024 03:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[27-Mar-2024 03:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[27-Mar-2024 03:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[27-Mar-2024 03:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[27-Mar-2024 03:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[27-Mar-2024 03:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[27-Mar-2024 03:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[27-Mar-2024 03:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[27-Mar-2024 03:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[27-Mar-2024 03:18:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[27-Mar-2024 03:18:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[27-Mar-2024 03:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[27-Mar-2024 03:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[27-Mar-2024 03:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[27-Mar-2024 03:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[27-Mar-2024 03:18:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[27-Mar-2024 03:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[27-Mar-2024 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[27-Mar-2024 03:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[27-Mar-2024 03:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[27-Mar-2024 03:19:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[27-Mar-2024 03:19:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[27-Mar-2024 03:19:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[27-Mar-2024 03:19:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[27-Mar-2024 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[27-Mar-2024 03:19:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[27-Mar-2024 03:19:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[27-Mar-2024 03:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[27-Mar-2024 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[27-Mar-2024 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[27-Mar-2024 03:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[27-Mar-2024 03:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[27-Mar-2024 03:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[27-Mar-2024 03:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[27-Mar-2024 03:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[27-Mar-2024 03:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[27-Mar-2024 03:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[27-Mar-2024 03:20:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[27-Mar-2024 03:20:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[27-Mar-2024 03:20:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[27-Mar-2024 03:20:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[27-Mar-2024 03:20:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[27-Mar-2024 03:20:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[27-Mar-2024 03:20:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[27-Mar-2024 03:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[27-Mar-2024 03:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[27-Mar-2024 03:20:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[27-Mar-2024 03:20:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[27-Mar-2024 03:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[27-Mar-2024 03:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[27-Mar-2024 03:22:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[27-Mar-2024 03:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[27-Mar-2024 03:22:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[27-Mar-2024 03:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[27-Mar-2024 03:22:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[27-Mar-2024 03:22:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[27-Mar-2024 03:22:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[27-Mar-2024 03:22:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[27-Mar-2024 03:22:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[27-Mar-2024 03:22:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[27-Mar-2024 03:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[27-Mar-2024 03:22:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[27-Mar-2024 03:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[27-Mar-2024 03:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[27-Mar-2024 03:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[27-Mar-2024 03:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[27-Mar-2024 03:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[27-Mar-2024 03:22:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[27-Mar-2024 03:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[27-Mar-2024 03:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[27-Mar-2024 03:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[27-Mar-2024 03:23:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[27-Mar-2024 03:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[27-Mar-2024 03:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[27-Mar-2024 03:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[27-Mar-2024 03:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[27-Mar-2024 03:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[27-Mar-2024 03:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[27-Mar-2024 03:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[27-Mar-2024 03:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[27-Mar-2024 03:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[27-Mar-2024 03:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[27-Mar-2024 03:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[27-Mar-2024 03:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[27-Mar-2024 03:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[27-Mar-2024 03:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[27-Mar-2024 03:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[27-Mar-2024 03:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[27-Mar-2024 03:24:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[27-Mar-2024 03:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[27-Mar-2024 03:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[27-Mar-2024 03:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[27-Mar-2024 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[27-Mar-2024 03:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[27-Mar-2024 03:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[27-Mar-2024 03:24:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[27-Mar-2024 03:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[27-Mar-2024 03:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[27-Mar-2024 03:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[27-Mar-2024 03:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[27-Mar-2024 03:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[27-Mar-2024 03:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[27-Mar-2024 03:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[27-Mar-2024 03:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[27-Mar-2024 03:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[27-Mar-2024 03:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[27-Mar-2024 03:25:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[27-Mar-2024 03:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[27-Mar-2024 03:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[27-Mar-2024 03:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[27-Mar-2024 03:25:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[27-Mar-2024 03:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[27-Mar-2024 03:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[27-Mar-2024 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[27-Mar-2024 03:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[27-Mar-2024 03:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[27-Mar-2024 03:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[27-Mar-2024 03:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[27-Mar-2024 03:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[27-Mar-2024 03:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[27-Mar-2024 03:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[27-Mar-2024 03:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[27-Mar-2024 03:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[27-Mar-2024 17:59:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[27-Mar-2024 17:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[27-Mar-2024 17:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[27-Mar-2024 17:59:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[27-Mar-2024 17:59:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[27-Mar-2024 17:59:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[27-Mar-2024 17:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[27-Mar-2024 17:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[27-Mar-2024 17:59:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[27-Mar-2024 17:59:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[27-Mar-2024 17:59:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[27-Mar-2024 17:59:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[27-Mar-2024 17:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[27-Mar-2024 17:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[27-Mar-2024 17:59:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[27-Mar-2024 17:59:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[27-Mar-2024 17:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[27-Mar-2024 17:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[27-Mar-2024 17:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[27-Mar-2024 17:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[27-Mar-2024 17:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[27-Mar-2024 17:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[27-Mar-2024 17:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[27-Mar-2024 17:59:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[27-Mar-2024 17:59:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[27-Mar-2024 17:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[27-Mar-2024 17:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[27-Mar-2024 17:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[27-Mar-2024 17:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[27-Mar-2024 17:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[27-Mar-2024 17:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[27-Mar-2024 17:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[27-Mar-2024 17:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[27-Mar-2024 17:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[27-Mar-2024 17:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[27-Mar-2024 17:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[27-Mar-2024 17:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[30-Mar-2024 17:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php on line 17
+[30-Mar-2024 17:19:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[30-Mar-2024 17:19:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 18
+[30-Mar-2024 17:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php on line 17
+[30-Mar-2024 17:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php on line 17
+[30-Mar-2024 17:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php on line 17
+[30-Mar-2024 17:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php on line 17
+[30-Mar-2024 17:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php on line 17
+[30-Mar-2024 17:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[30-Mar-2024 17:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[30-Mar-2024 17:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[30-Mar-2024 17:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php on line 13
+[30-Mar-2024 17:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php on line 17
+[30-Mar-2024 17:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Posts_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[30-Mar-2024 17:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php on line 17
+[30-Mar-2024 17:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Terms_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[30-Mar-2024 17:19:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php on line 17
+[30-Mar-2024 17:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php on line 20
+[30-Mar-2024 17:19:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[30-Mar-2024 17:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[30-Mar-2024 17:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[30-Mar-2024 17:19:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[30-Mar-2024 17:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[30-Mar-2024 17:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[30-Mar-2024 17:19:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[30-Mar-2024 17:19:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php on line 19
+[30-Mar-2024 17:19:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[30-Mar-2024 17:19:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[30-Mar-2024 17:19:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Autosaves_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php on line 17
+[30-Mar-2024 17:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Revisions_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php on line 17
+[30-Mar-2024 17:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 17
+[30-Mar-2024 17:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[30-Mar-2024 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php on line 17
+[30-Mar-2024 17:19:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php on line 18
+[30-Mar-2024 17:19:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[30-Mar-2024 17:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[30-Mar-2024 17:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17

@@ -1,0 +1,1224 @@
+[23-Feb-2024 08:36:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[23-Feb-2024 08:36:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[23-Feb-2024 08:36:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[23-Feb-2024 08:36:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[23-Feb-2024 08:36:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[23-Feb-2024 08:36:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[23-Feb-2024 08:36:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[23-Feb-2024 08:36:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[23-Feb-2024 08:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[23-Feb-2024 08:37:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[23-Feb-2024 08:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[23-Feb-2024 08:37:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[23-Feb-2024 08:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[23-Feb-2024 08:37:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[23-Feb-2024 08:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[23-Feb-2024 08:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[23-Feb-2024 08:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[23-Feb-2024 08:37:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[23-Feb-2024 08:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[23-Feb-2024 08:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[23-Feb-2024 08:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[23-Feb-2024 08:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[23-Feb-2024 08:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[23-Feb-2024 08:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[23-Feb-2024 08:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[23-Feb-2024 08:38:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[23-Feb-2024 08:38:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[23-Feb-2024 08:38:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[23-Feb-2024 08:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[23-Feb-2024 08:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[23-Feb-2024 08:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[23-Feb-2024 08:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[23-Feb-2024 08:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[23-Feb-2024 08:38:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[26-Feb-2024 15:11:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[26-Feb-2024 15:11:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[26-Feb-2024 15:11:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[26-Feb-2024 15:11:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[26-Feb-2024 15:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[26-Feb-2024 15:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[26-Feb-2024 15:11:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[26-Feb-2024 15:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[26-Feb-2024 15:11:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[26-Feb-2024 15:11:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[26-Feb-2024 15:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[26-Feb-2024 15:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[26-Feb-2024 15:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[26-Feb-2024 15:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[26-Feb-2024 15:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[26-Feb-2024 15:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[26-Feb-2024 15:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[26-Feb-2024 15:11:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[26-Feb-2024 15:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[26-Feb-2024 15:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[26-Feb-2024 15:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[26-Feb-2024 15:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[26-Feb-2024 15:11:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[26-Feb-2024 15:11:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[26-Feb-2024 15:11:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[26-Feb-2024 15:11:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[26-Feb-2024 15:11:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[26-Feb-2024 15:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[26-Feb-2024 15:11:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[26-Feb-2024 15:11:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[26-Feb-2024 15:11:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[26-Feb-2024 15:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[26-Feb-2024 15:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[26-Feb-2024 15:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[02-Mar-2024 04:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[02-Mar-2024 04:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[02-Mar-2024 04:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[02-Mar-2024 04:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[02-Mar-2024 04:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[02-Mar-2024 04:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[02-Mar-2024 04:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[02-Mar-2024 04:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[02-Mar-2024 04:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[02-Mar-2024 04:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[02-Mar-2024 04:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[02-Mar-2024 04:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[02-Mar-2024 04:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[02-Mar-2024 04:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[02-Mar-2024 04:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[02-Mar-2024 04:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[02-Mar-2024 04:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[02-Mar-2024 04:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[02-Mar-2024 04:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[02-Mar-2024 04:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[02-Mar-2024 04:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[02-Mar-2024 04:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[02-Mar-2024 04:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[02-Mar-2024 04:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[02-Mar-2024 04:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[02-Mar-2024 04:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[02-Mar-2024 04:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[02-Mar-2024 04:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[02-Mar-2024 04:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[02-Mar-2024 04:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[02-Mar-2024 04:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[02-Mar-2024 04:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[02-Mar-2024 04:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[02-Mar-2024 04:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[20-Mar-2024 07:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[20-Mar-2024 07:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[20-Mar-2024 07:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[20-Mar-2024 07:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[20-Mar-2024 07:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[20-Mar-2024 07:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[20-Mar-2024 07:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[20-Mar-2024 07:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[20-Mar-2024 07:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[20-Mar-2024 07:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[20-Mar-2024 07:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[20-Mar-2024 07:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[20-Mar-2024 07:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[20-Mar-2024 07:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[20-Mar-2024 07:30:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[20-Mar-2024 07:30:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[20-Mar-2024 07:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[20-Mar-2024 07:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[20-Mar-2024 07:30:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[20-Mar-2024 07:30:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[20-Mar-2024 07:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[20-Mar-2024 07:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[20-Mar-2024 07:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[20-Mar-2024 07:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[20-Mar-2024 07:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[20-Mar-2024 07:30:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[20-Mar-2024 07:30:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[20-Mar-2024 07:30:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[20-Mar-2024 07:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[20-Mar-2024 07:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[20-Mar-2024 07:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[20-Mar-2024 07:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[20-Mar-2024 07:30:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[20-Mar-2024 07:30:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[24-Mar-2024 05:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[24-Mar-2024 05:56:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[24-Mar-2024 05:56:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[24-Mar-2024 05:56:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[24-Mar-2024 05:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[24-Mar-2024 05:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[24-Mar-2024 05:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[24-Mar-2024 05:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[24-Mar-2024 05:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[24-Mar-2024 05:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[24-Mar-2024 05:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[24-Mar-2024 05:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[24-Mar-2024 05:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[24-Mar-2024 05:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[24-Mar-2024 05:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[24-Mar-2024 05:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[24-Mar-2024 05:56:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[24-Mar-2024 05:56:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[24-Mar-2024 05:56:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[24-Mar-2024 05:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[24-Mar-2024 05:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[24-Mar-2024 05:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[24-Mar-2024 05:56:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[24-Mar-2024 05:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[24-Mar-2024 05:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[24-Mar-2024 05:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[24-Mar-2024 05:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[24-Mar-2024 05:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[24-Mar-2024 05:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[24-Mar-2024 05:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[24-Mar-2024 05:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[24-Mar-2024 05:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[24-Mar-2024 05:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[24-Mar-2024 05:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[27-Mar-2024 17:55:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[27-Mar-2024 17:55:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[27-Mar-2024 17:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[27-Mar-2024 17:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[27-Mar-2024 17:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[27-Mar-2024 17:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[27-Mar-2024 17:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[27-Mar-2024 17:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[27-Mar-2024 17:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[27-Mar-2024 17:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[27-Mar-2024 17:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[27-Mar-2024 17:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[27-Mar-2024 17:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[27-Mar-2024 17:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[27-Mar-2024 17:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[27-Mar-2024 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[27-Mar-2024 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[27-Mar-2024 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[27-Mar-2024 17:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[27-Mar-2024 17:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[27-Mar-2024 17:55:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[27-Mar-2024 17:55:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[27-Mar-2024 17:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[27-Mar-2024 17:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[27-Mar-2024 17:55:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[27-Mar-2024 17:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[27-Mar-2024 17:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[27-Mar-2024 17:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[27-Mar-2024 17:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[27-Mar-2024 17:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[27-Mar-2024 17:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[27-Mar-2024 17:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[27-Mar-2024 17:55:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[27-Mar-2024 17:55:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[30-Mar-2024 17:12:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[30-Mar-2024 17:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[30-Mar-2024 17:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[30-Mar-2024 17:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[30-Mar-2024 17:12:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[30-Mar-2024 17:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[30-Mar-2024 17:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[30-Mar-2024 17:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[30-Mar-2024 17:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[30-Mar-2024 17:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[30-Mar-2024 17:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[30-Mar-2024 17:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[30-Mar-2024 17:12:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[30-Mar-2024 17:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[30-Mar-2024 17:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[30-Mar-2024 17:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[30-Mar-2024 17:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[30-Mar-2024 17:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[30-Mar-2024 17:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[30-Mar-2024 17:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[30-Mar-2024 17:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[30-Mar-2024 17:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[30-Mar-2024 17:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[30-Mar-2024 17:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[30-Mar-2024 17:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[30-Mar-2024 17:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[30-Mar-2024 17:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[30-Mar-2024 17:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[30-Mar-2024 17:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[30-Mar-2024 17:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[30-Mar-2024 17:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[30-Mar-2024 17:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[30-Mar-2024 17:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[30-Mar-2024 17:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[11-Apr-2024 23:44:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[11-Apr-2024 23:44:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[11-Apr-2024 23:44:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[11-Apr-2024 23:44:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[11-Apr-2024 23:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[11-Apr-2024 23:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[11-Apr-2024 23:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[11-Apr-2024 23:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[11-Apr-2024 23:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[11-Apr-2024 23:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[11-Apr-2024 23:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[11-Apr-2024 23:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[11-Apr-2024 23:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[11-Apr-2024 23:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[11-Apr-2024 23:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[11-Apr-2024 23:44:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[11-Apr-2024 23:44:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[11-Apr-2024 23:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[11-Apr-2024 23:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[11-Apr-2024 23:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[11-Apr-2024 23:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[11-Apr-2024 23:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[11-Apr-2024 23:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[11-Apr-2024 23:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[11-Apr-2024 23:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[11-Apr-2024 23:44:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[11-Apr-2024 23:44:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[11-Apr-2024 23:44:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[11-Apr-2024 23:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[11-Apr-2024 23:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[11-Apr-2024 23:44:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[11-Apr-2024 23:44:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[11-Apr-2024 23:44:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[11-Apr-2024 23:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[12-Apr-2024 19:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[12-Apr-2024 19:59:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[12-Apr-2024 19:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[12-Apr-2024 19:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[12-Apr-2024 19:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[12-Apr-2024 19:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[12-Apr-2024 19:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[12-Apr-2024 19:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[12-Apr-2024 19:59:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[12-Apr-2024 19:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[12-Apr-2024 19:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[12-Apr-2024 19:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[12-Apr-2024 19:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[12-Apr-2024 19:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[12-Apr-2024 19:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[12-Apr-2024 19:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[12-Apr-2024 19:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[12-Apr-2024 19:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[12-Apr-2024 19:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[12-Apr-2024 19:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[12-Apr-2024 19:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[12-Apr-2024 19:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[12-Apr-2024 20:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[12-Apr-2024 20:00:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[12-Apr-2024 20:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[12-Apr-2024 20:00:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[12-Apr-2024 20:00:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[12-Apr-2024 20:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[12-Apr-2024 20:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[12-Apr-2024 20:00:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[12-Apr-2024 20:00:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[12-Apr-2024 20:00:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[12-Apr-2024 20:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[12-Apr-2024 20:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

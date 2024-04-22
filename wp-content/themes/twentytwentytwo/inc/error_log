@@ -1,0 +1,8 @@
+[20-Mar-2024 07:34:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/wwwvskenergy/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[24-Mar-2024 06:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/wwwvskenergy/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135

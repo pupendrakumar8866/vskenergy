@@ -1,0 +1,40 @@
+[19-Feb-2024 18:12:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[23-Feb-2024 08:28:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[26-Feb-2024 15:17:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[02-Mar-2024 04:37:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[20-Mar-2024 07:33:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[24-Mar-2024 05:59:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[27-Mar-2024 02:24:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[27-Mar-2024 02:24:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[27-Mar-2024 17:59:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12
+[30-Mar-2024 17:19:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/library/Requests.php on line 12

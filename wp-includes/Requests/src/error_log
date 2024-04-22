@@ -1,0 +1,8 @@
+[19-Feb-2024 18:12:35 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/wwwvskenergy/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/src/Hooks.php on line 19
+[23-Feb-2024 08:29:21 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/wwwvskenergy/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/Requests/src/Hooks.php on line 19

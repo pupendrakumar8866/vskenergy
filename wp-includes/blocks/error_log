@@ -1,0 +1,56 @@
+[19-Feb-2024 18:17:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[23-Feb-2024 08:34:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[26-Feb-2024 15:10:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[02-Mar-2024 04:34:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[20-Mar-2024 07:33:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[24-Mar-2024 05:58:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 02:19:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 02:19:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 02:34:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 02:34:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[27-Mar-2024 17:55:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[30-Mar-2024 17:12:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[11-Apr-2024 23:44:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8
+[12-Apr-2024 19:59:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/blocks/index.php on line 8

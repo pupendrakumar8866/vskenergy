@@ -1,0 +1,49 @@
+@media only screen and (max-width:1680px) and (min-width:1520px)
+{
+	P, a, ul, li, span {font-size: 22px;}
+	.bantxt h1 {    font-size: 75px;}
+	.headh h2 {    font-size: 42px;} 
+	.headh h2 span {    font-size: 42px;} 
+} 
+
+
+@media only screen and (max-width:1519px) and (min-width:1320px)
+{
+	P, a, ul, li, span {font-size: 20px;}
+	.bantxt h1 {    font-size: 55px;}
+	.headh h2 {    font-size: 34px;} 
+	.headh h2 span {    font-size: 34px;} 
+
+
+@media only screen and (max-width:1319px) and (min-width:1150px)
+{
+	P, a, ul, li, span {font-size: 18px;}
+	.bantxt h1 {    font-size: 45px;}
+	.headh h2 {    font-size: 30px;} 
+	.headh h2 span {    font-size: 30px;} 
+} 
+
+
+@media only screen and (max-width:1149px) and (min-width:991px)
+{
+	P, a, ul, li, span {font-size: 18px;}
+	.bantxt h1 {    font-size: 40px;}
+	.headh h2 {    font-size: 28px;} 
+	.headh h2 span {    font-size: 28px;} 
+} 
+
+@media only screen and (max-width:990px) and (min-width:768px)
+{
+	P, a, ul, li, span {font-size: 16px;}
+	.bantxt h1 {    font-size: 36px;}
+	.headh h2 {    font-size: 22px;} 
+	.headh h2 span {    font-size: 22px;} 
+} 
+
+@media only screen and (max-width:767px) and (min-width:200px)
+{
+	P, a, ul, li, span {font-size: 16px;}
+	.bantxt h1 {    font-size: 32px;}
+	.headh h2 {    font-size: 22px;} 
+	.headh h2 span {    font-size: 22px;} 
+} 

@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 21" width="32" height="21">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: none;stroke: #ffffff;stroke-miterlimit:10;stroke-width: 2 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<path id="&lt;Path&gt;" class="s0" d="m2.7 10.8h24.5"/>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s1" d="m19.4 20.4l-1.6-1.7 8.5-7.9-8.5-8 1.6-1.7 10.3 9.7z"/>
+		</g>
+	</g>
+</svg>

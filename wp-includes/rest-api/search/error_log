@@ -1,0 +1,60 @@
+[23-Feb-2024 08:44:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[23-Feb-2024 08:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[23-Feb-2024 08:44:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[27-Mar-2024 03:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[27-Mar-2024 03:21:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[27-Mar-2024 03:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Mar-2024 03:21:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Mar-2024 03:21:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[27-Mar-2024 03:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[27-Mar-2024 03:31:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[27-Mar-2024 03:31:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[27-Mar-2024 03:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Mar-2024 03:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Mar-2024 03:31:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[27-Mar-2024 03:31:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

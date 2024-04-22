@@ -1,0 +1,228 @@
+[19-Feb-2024 18:15:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[19-Feb-2024 18:15:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[19-Feb-2024 18:15:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[19-Feb-2024 18:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[19-Feb-2024 18:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[19-Feb-2024 18:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[19-Feb-2024 18:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[23-Feb-2024 08:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[23-Feb-2024 08:33:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[23-Feb-2024 08:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-Feb-2024 08:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[23-Feb-2024 08:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[23-Feb-2024 08:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[23-Feb-2024 08:33:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[26-Feb-2024 15:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-Feb-2024 15:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[26-Feb-2024 15:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-Feb-2024 15:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-Feb-2024 15:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-Feb-2024 15:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[26-Feb-2024 15:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[02-Mar-2024 04:37:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[02-Mar-2024 04:37:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[02-Mar-2024 04:37:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[02-Mar-2024 04:37:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[02-Mar-2024 04:37:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[02-Mar-2024 04:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[02-Mar-2024 04:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[02-Mar-2024 10:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Mar-2024 07:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Mar-2024 07:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Mar-2024 07:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Mar-2024 07:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Mar-2024 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Mar-2024 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Mar-2024 07:33:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[24-Mar-2024 05:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[24-Mar-2024 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[24-Mar-2024 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[24-Mar-2024 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[24-Mar-2024 05:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[24-Mar-2024 05:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[24-Mar-2024 05:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-Mar-2024 17:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Mar-2024 17:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-Mar-2024 17:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Mar-2024 17:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Mar-2024 17:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Mar-2024 17:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-Mar-2024 17:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[30-Mar-2024 17:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[30-Mar-2024 17:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[30-Mar-2024 17:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[30-Mar-2024 17:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[30-Mar-2024 17:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[30-Mar-2024 17:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[30-Mar-2024 17:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

@@ -1,0 +1,80 @@
+[27-Mar-2024 03:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[27-Mar-2024 03:41:44 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[27-Mar-2024 03:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[27-Mar-2024 03:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[27-Mar-2024 03:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[27-Mar-2024 03:41:55 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[27-Mar-2024 03:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[27-Mar-2024 03:42:01 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[27-Mar-2024 03:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[27-Mar-2024 03:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[27-Mar-2024 03:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[27-Mar-2024 03:42:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[27-Mar-2024 03:42:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[27-Mar-2024 03:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[27-Mar-2024 03:43:01 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[27-Mar-2024 03:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[27-Mar-2024 03:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[27-Mar-2024 03:43:22 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[27-Mar-2024 03:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[27-Mar-2024 03:43:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4

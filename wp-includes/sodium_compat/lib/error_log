@@ -1,0 +1,44 @@
+[23-Feb-2024 08:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[26-Feb-2024 15:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[02-Mar-2024 04:37:34 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Mar-2024 07:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[24-Mar-2024 05:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Mar-2024 03:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Mar-2024 03:33:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Mar-2024 03:35:36 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Mar-2024 03:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[27-Mar-2024 17:59:39 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[30-Mar-2024 17:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6

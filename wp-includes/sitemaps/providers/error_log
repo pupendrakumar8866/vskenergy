@@ -1,0 +1,108 @@
+[23-Feb-2024 08:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[23-Feb-2024 08:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[23-Feb-2024 08:45:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[26-Feb-2024 15:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[26-Feb-2024 15:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[26-Feb-2024 15:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[02-Mar-2024 04:34:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[02-Mar-2024 04:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[02-Mar-2024 04:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Mar-2024 07:31:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Mar-2024 07:31:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Mar-2024 07:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[24-Mar-2024 05:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[24-Mar-2024 05:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[24-Mar-2024 05:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[27-Mar-2024 17:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[27-Mar-2024 17:56:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[27-Mar-2024 17:56:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[30-Mar-2024 17:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[30-Mar-2024 17:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[30-Mar-2024 17:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[11-Apr-2024 23:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[11-Apr-2024 23:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[11-Apr-2024 23:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[12-Apr-2024 20:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[12-Apr-2024 20:00:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[12-Apr-2024 20:00:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

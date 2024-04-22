@@ -1,0 +1,16 @@
+[27-Mar-2024 03:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[27-Mar-2024 03:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[27-Mar-2024 03:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[27-Mar-2024 03:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

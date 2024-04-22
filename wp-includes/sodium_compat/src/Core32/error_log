@@ -1,0 +1,318 @@
+[20-Mar-2024 07:34:32 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[20-Mar-2024 07:34:33 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[20-Mar-2024 07:34:33 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[20-Mar-2024 07:34:34 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[20-Mar-2024 07:34:34 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[20-Mar-2024 07:34:34 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[20-Mar-2024 07:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[20-Mar-2024 07:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[20-Mar-2024 07:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[20-Mar-2024 07:34:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[20-Mar-2024 07:34:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[20-Mar-2024 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[20-Mar-2024 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[24-Mar-2024 05:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[24-Mar-2024 05:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[24-Mar-2024 05:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[24-Mar-2024 05:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[24-Mar-2024 05:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[24-Mar-2024 05:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[24-Mar-2024 05:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[24-Mar-2024 05:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[24-Mar-2024 06:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[24-Mar-2024 06:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[24-Mar-2024 06:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[24-Mar-2024 06:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[24-Mar-2024 06:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[27-Mar-2024 03:28:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[27-Mar-2024 03:28:42 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[27-Mar-2024 03:28:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[27-Mar-2024 03:28:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[27-Mar-2024 03:28:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:28:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:28:54 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:29:14 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[27-Mar-2024 03:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[27-Mar-2024 03:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[27-Mar-2024 03:29:27 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[27-Mar-2024 03:29:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[27-Mar-2024 03:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[27-Mar-2024 03:29:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[27-Mar-2024 03:29:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[27-Mar-2024 03:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[27-Mar-2024 03:29:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[27-Mar-2024 03:29:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[27-Mar-2024 03:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[27-Mar-2024 03:29:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[27-Mar-2024 03:29:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[27-Mar-2024 03:30:02 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[27-Mar-2024 03:30:02 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[27-Mar-2024 03:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[27-Mar-2024 03:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[27-Mar-2024 03:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[27-Mar-2024 03:51:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[27-Mar-2024 03:51:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[27-Mar-2024 03:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[27-Mar-2024 03:51:55 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:52:32 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[27-Mar-2024 03:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[27-Mar-2024 03:52:35 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[27-Mar-2024 03:52:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[27-Mar-2024 03:52:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[27-Mar-2024 03:52:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[27-Mar-2024 03:52:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[27-Mar-2024 03:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[27-Mar-2024 03:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[27-Mar-2024 03:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[27-Mar-2024 03:53:29 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[27-Mar-2024 03:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[27-Mar-2024 03:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[27-Mar-2024 03:53:38 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[27-Mar-2024 03:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[27-Mar-2024 03:53:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[27-Mar-2024 03:53:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[27-Mar-2024 03:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[27-Mar-2024 03:53:51 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10

@@ -1,0 +1,144 @@
+[23-Feb-2024 08:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[23-Feb-2024 08:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[23-Feb-2024 08:44:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[23-Feb-2024 08:44:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[26-Feb-2024 15:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[26-Feb-2024 15:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[26-Feb-2024 15:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[26-Feb-2024 15:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[02-Mar-2024 04:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[02-Mar-2024 04:37:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[02-Mar-2024 04:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[02-Mar-2024 04:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[27-Mar-2024 03:20:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Mar-2024 03:20:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Mar-2024 03:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Mar-2024 03:20:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Mar-2024 03:20:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Mar-2024 03:20:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Mar-2024 03:20:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[27-Mar-2024 03:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[27-Mar-2024 03:30:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Mar-2024 03:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Mar-2024 03:31:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Mar-2024 03:31:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Mar-2024 03:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Mar-2024 03:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Mar-2024 03:31:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[27-Mar-2024 03:31:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[27-Mar-2024 17:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Mar-2024 17:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Mar-2024 17:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Mar-2024 17:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[30-Mar-2024 17:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[30-Mar-2024 17:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[30-Mar-2024 17:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[30-Mar-2024 17:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwvskenergy/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
